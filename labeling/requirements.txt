@@ -1,2 +1,2 @@
 beautifulsoup4
-label-studio-converter==0.0.17
+label-studio-converter
